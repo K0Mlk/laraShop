@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h1 {
+    font-size: 100px;
+    position: relative;
+    text-align: center;
+    margin-top: 25%;
+    color: #c92323;
+}
